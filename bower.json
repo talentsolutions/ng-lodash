@@ -23,9 +23,9 @@
     "build/ng-lodash.js"
   ],
   "dependencies": {
-    "angular": "~1.6"
+    "angular": "~1.X"
   },
   "devDependencies": {
-    "angular-mocks": "~1.6"
+    "angular-mocks": "~1.x"
   }
 }
